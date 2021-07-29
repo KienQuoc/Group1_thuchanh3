@@ -1,5 +1,8 @@
 package thuchanh3;
 
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
 public class pheptinh {
 
 	public static void main(String[] args) {
@@ -15,6 +18,9 @@ public class pheptinh {
         int tong = firstNumber + secondNumber;
         System.out.println(firstNumber + " + " + secondNumber + " = " + tong);
         //15-17 Quốc Hùng
+        int hieu = firstNumber - secondNumber;
+        System.out.println(firstNumber + " - " + secondNumber + " = " + hieu);
+        // 3->4, 21->23 Nguyễn Tấn An
 		// Viết code ở đây nhé, nhớ ghi chú từng phần mỗi người
 	}
 
