@@ -22,6 +22,9 @@ public class pheptinh {
         System.out.println(firstNumber + " - " + secondNumber + " = " + hieu);
         // 3->4, 21->23 Nguyễn Tấn An
 		// Viết code ở đây nhé, nhớ ghi chú từng phần mỗi người
+        int tich = firstNumber * secondNumber;
+        System.out.println(firstNumber + " * " + secondNumber + " = " + tich);
+        //25->27 Lê Quang Định
 	}
 
 }
