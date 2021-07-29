@@ -25,6 +25,10 @@ public class pheptinh {
         int tich = firstNumber * secondNumber;
         System.out.println(firstNumber + " * " + secondNumber + " = " + tich);
         //25->27 Lê Quang Định
+        float thuong = (float) firstNumber / secondNumber;
+        System.out.println(firstNumber + " / " + secondNumber + " = " + 
+                decimalFormat.format(thuong));  // làm tròn thương đến 2 chữ số thập phân
+        //28->31 Trần Quang Sang
 	}
 
 }
