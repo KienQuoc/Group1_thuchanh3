@@ -12,6 +12,9 @@ public class pheptinh {
         System.out.println("Nhập vào số thứ hai: ");
         int secondNumber = scanner.nextInt();
 		// 6 -> 14 Hoàng Phước Nhân
+        int tong = firstNumber + secondNumber;
+        System.out.println(firstNumber + " + " + secondNumber + " = " + tong);
+        //15-17 Quốc Hùng
 		// Viết code ở đây nhé, nhớ ghi chú từng phần mỗi người
 	}
 
